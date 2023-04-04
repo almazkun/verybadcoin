@@ -1,0 +1,2 @@
+# verybadcoin
+Very Bad Coin
